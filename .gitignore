@@ -1,0 +1,18 @@
+# Folder hasil kompilasi (Sangat Besar)
+build/
+
+# Folder internal Dart & Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# Folder konfigurasi IDE
+.idea/
+.vscode/
+*.iml
+
+# File rahasia atau log
+.env
+*.log
